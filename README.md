@@ -8,6 +8,7 @@ UI в проекте самы базовый.
 ## Screan
 <img width="429" alt="Снимок экрана 2025-05-16 в 19 46 44" src="https://github.com/user-attachments/assets/a2724d31-204d-4960-9737-bc44b1870f26" />
 <img width="420" alt="Снимок экрана 2025-05-16 в 19 47 09" src="https://github.com/user-attachments/assets/215c48d2-0d88-4c11-b925-80cc7e65f314" />
+
 ## Author
 Дмитрий Трушин - [gitHub](https://github.com/SnakCat)
 
